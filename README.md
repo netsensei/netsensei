@@ -1,7 +1,7 @@
 ## Hi! 👋
 
 I'm Matthias - I'm a data operations developer for the [Ghent University Library](https://github.com/universiteitsbibliotheek).
-Before that, I held a role as a data conservator for the {Flemish Art Collection](https://github.com/VlaamseKunstcollectie). 
+Before that, I held a role as a data conservator for the [Flemish Art Collection](https://github.com/VlaamseKunstcollectie). 
 
 - 🔭 My interests include digital culture, cultural heritage, Open and Semantic Web, art, space and retro technology.
 - 🖋️ I report regularly on my [personal blog](https://www.netsensei.be). (Dutch)
