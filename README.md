@@ -7,7 +7,7 @@ Before that, I held a role as a data conservator for the [Flemish Art Collection
 - 🖋️ I report regularly on my [personal blog](https://www.netsensei.be). (Dutch)
 - 🖥️ I sometimes write a thought on my [technical blog](https://www.colada.be). (English)
 - 📢 I toot on [Mastodon](https://mastodon.online/about).
-- I wrangle code and data in PHP, Perl, Bash, JavaScript, HTMl, \[S,PostgreS,Graph,MSS]QL, XML, JSON,...
+- 🌱 I wrangle code and data in PHP, Perl, Bash, JavaScript, HTMl, \[S,PostgreS,Graph,MSS]QL, XML, JSON,...
 
 > “Life isn't about finding yourself. Life is about creating yourself.” 
 > ― George Bernard Shaw 
