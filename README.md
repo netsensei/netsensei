@@ -1,13 +1,12 @@
 ## Hi! 👋
 
-I'm Matthias - I'm a data operations developer for the [Ghent University Library](https://github.com/universiteitsbibliotheek).
-Before that, I held a role as a data conservator for the [Flemish Art Collection](https://github.com/VlaamseKunstcollectie). 
+I'm Matthias - I'm a data operations officer for the [Ghent University Library](https://github.com/ugent-library).
 
 - 🔭 My interests include digital culture, cultural heritage, Open and Semantic Web, art, space and retro technology.
 - 🖋️ I report regularly on my [personal blog](https://www.netsensei.be). (Dutch)
 - 🖥️ I sometimes write a thought on my [technical blog](https://www.colada.be). (English)
 - 📢 I toot on [Mastodon](https://mastodon.online/about).
-- 🌱 I wrangle code and data in PHP, Perl, Bash, JavaScript, HTMl, \[S,PostgreS,Graph,MSS]QL, XML, JSON,...
+- 🌱 I wrangle code and data in Go, PHP, Perl, Bash, JavaScript, HTML/CSS, \[S,PostgreS,Graph,MSS]QL, XML, JSON,...
 
 > “Life isn't about finding yourself. Life is about creating yourself.” 
 > ― George Bernard Shaw 
